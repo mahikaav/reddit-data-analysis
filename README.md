@@ -1,4 +1,4 @@
-![image](https://github.com/mahikaav/reddit-data-analysis/assets/145218498/35066c1d-8f40-4e89-b6ec-4cae5133ef61)# Reddit-data-analysis
+# Reddit-data-analysis
 
 ## 1. Subreddit Data Analysis
 Analysis of data from r/technology. The analysis covers various aspects including:
